@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GitHub!
-I love coffee,pizza,anddancer.
+I love coffee, pizza, and dance.
 
